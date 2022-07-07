@@ -1,0 +1,19 @@
+{
+  "name": "javascript-fundamentals-practice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ""
+  },
+  "scripts": {
+    "dev": "npx vite"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "prettier": {
+    "trailingComma": "all"
+  }
+}
